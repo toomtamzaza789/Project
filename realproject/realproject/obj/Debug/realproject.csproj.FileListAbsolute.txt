@@ -1,0 +1,16 @@
+C:\Users\ToKeNz\Source\Repos\realproject\realproject\bin\Debug\realproject.exe.config
+C:\Users\ToKeNz\Source\Repos\realproject\realproject\bin\Debug\realproject.exe
+C:\Users\ToKeNz\Source\Repos\realproject\realproject\bin\Debug\realproject.pdb
+C:\Users\ToKeNz\Source\Repos\realproject\realproject\obj\Debug\realproject.csprojAssemblyReference.cache
+C:\Users\ToKeNz\Source\Repos\realproject\realproject\obj\Debug\realproject.Form1.resources
+C:\Users\ToKeNz\Source\Repos\realproject\realproject\obj\Debug\realproject.Properties.Resources.resources
+C:\Users\ToKeNz\Source\Repos\realproject\realproject\obj\Debug\realproject.csproj.GenerateResource.cache
+C:\Users\ToKeNz\Source\Repos\realproject\realproject\obj\Debug\realproject.exe
+C:\Users\ToKeNz\Source\Repos\realproject\realproject\obj\Debug\realproject.pdb
+C:\Users\ToKeNz\Source\Repos\realproject\realproject\obj\Debug\realproject.G1.resources
+C:\Users\ToKeNz\Source\Repos\realproject\realproject\obj\Debug\realproject.G2.resources
+C:\Users\ToKeNz\Source\Repos\realproject\realproject\obj\Debug\realproject.G3.resources
+C:\Users\ToKeNz\Source\Repos\realproject\realproject\obj\Debug\realproject.G4.resources
+C:\Users\ToKeNz\Source\Repos\realproject\realproject\obj\Debug\realproject.G5.resources
+C:\Users\ToKeNz\Source\Repos\realproject\realproject\obj\Debug\realproject.Form2.resources
+C:\Users\ToKeNz\Source\Repos\realproject\realproject\obj\Debug\realproject.csproj.CoreCompileInputs.cache
